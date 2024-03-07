@@ -12,3 +12,4 @@ Comando para cancelar o arquivo criado pelo git add
 
 git config --global user.email "juniorvaldinei59@gmail.com"
   git config --global user.name "Junior Moraes"
+  [✔] atividade  completa
